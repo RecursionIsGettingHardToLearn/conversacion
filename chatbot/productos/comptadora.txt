@@ -1,0 +1,53 @@
+[2025-05-22T12:45:02.001293]
+whatsapp:+59178965432: Hola, estoy buscando una computadora ASUS. ¿Tienes alguna disponible?
+
+[2025-05-22T12:45:15.428190]
+Twilio: ¡Hola! 😊 Sí, tenemos varias opciones ASUS. ¿Tienes en mente alguna característica específica? ¿Uso para oficina, diseño, gaming? ¿Y un presupuesto aproximado?
+
+[2025-05-22T12:45:37.872911]
+whatsapp:+59178965432: Es para trabajo y estudio. Que sea rápida y no se trabe. Presupuesto hasta 4000 Bs.
+
+[2025-05-22T12:45:59.003871]
+Twilio: Excelente, te recomiendo la ASUS VivoBook 15:
+
+Procesador Intel Core i3 11va Gen
+
+8 GB RAM
+
+SSD de 256 GB
+
+Pantalla Full HD de 15.6”
+
+Windows 11 original
+Está en 3950 Bs, nueva y sellada.
+
+[2025-05-22T12:46:20.483291]
+whatsapp:+59178965432: ¿Tiene garantía?
+
+[2025-05-22T12:46:31.998273]
+Twilio: Sí, garantía oficial de 12 meses por defectos de fábrica. También ofrecemos soporte técnico local.
+
+[2025-05-22T12:46:50.103812]
+whatsapp:+59178965432: ¿Puedo recogerla o la envían?
+
+[2025-05-22T12:47:05.887210]
+Twilio: Puedes recogerla en nuestra tienda en La Paz centro o te la enviamos. En La Paz/El Alto entregamos en el mismo día con motorizado.
+
+[2025-05-22T12:47:25.208371]
+whatsapp:+59178965432: ¿Cuánto cuesta el envío?
+
+[2025-05-22T12:47:38.115093]
+Twilio: Envío en La Paz/El Alto: 20 Bs
+Resto del país: desde 30 Bs, dependiendo de la ciudad.
+
+[2025-05-22T12:47:53.774831]
+whatsapp:+59178965432: Genial. ¿Cómo se realiza el pago?
+
+[2025-05-22T12:48:08.998282]
+Twilio: Puedes pagar por QR, transferencia o contra entrega (solo en La Paz y El Alto). ¿Deseas que la agendemos para hoy?
+
+[2025-05-22T12:48:25.341276]
+whatsapp:+59178965432: Sí, por favor. Te paso mis datos.
+
+[2025-05-22T12:48:39.112873]
+Twilio: Perfecto 😊. Envíame tu nombre completo, dirección y número de referencia. Apenas esté en ruta, te aviso.

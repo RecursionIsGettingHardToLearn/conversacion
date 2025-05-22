@@ -1,0 +1,20 @@
+[2025-05-22T06:55:33.857939] whatsapp:+59163618447 → Bot: Hola tuviera una computadora Asus?
+Bot → whatsapp:+59163618447: Sí, tenemos una computadora ASUS disponible.
+[2025-05-22T06:56:00.988968] whatsapp:+59163618447 → Bot: Y el precio?
+Bot → whatsapp:+59163618447: El Xiaomi Redmi 10C está en 1150 Bs.
+[2025-05-22T07:07:56.277387] whatsapp:+59163618447 → Bot: Estoy buscando una Asus
+Bot → whatsapp:+59163618447: ¡Genial! ¿Estás buscando alguna especificación en particular para la computadora ASUS que estás interesado en comprar? ¡Pregunta todo lo que necesites saber!
+[2025-05-22T13:23:57.835717] whatsapp:+59163618447 → Bot: Que productos tienes para vender
+Bot → whatsapp:+59163618447: ¡Hola! Actualmente cuento con teléfonos Xiaomi, como el Xiaomi Redmi 10C, y también impresoras, como la HP DeskJet Ink Advantage 2775. ¿Te interesa alguno de estos productos o buscas algo en específico? ¡Estoy aquí para ayudarte!
+[2025-05-22T14:29:57.698863] whatsapp:+59163618447 → Bot: Hola buenos días
+Bot → whatsapp:+59163618447: ¡Hola! Actualmente cuento con teléfonos Xiaomi, como el Xiaomi Redmi 10C, y también impresoras, como la HP DeskJet Ink Advantage 2775. ¿Te interesa alguno de estos productos o buscas algo en específico? ¡Estoy aquí para ayudarte!
+[2025-05-22T14:30:40.496914] whatsapp:+59163618447 → Bot: Dime más de la Xiaomi
+Bot → whatsapp:+59163618447: Claro, ¿qué te gustaría saber específicamente sobre los teléfonos Xiaomi? ¿Estás interesado en algún modelo en particular o en alguna característica en especial? ¡Estoy aquí para ayudarte!
+[2025-05-22T14:31:20.241209] whatsapp:+59163618447 → Bot: Dime el precio de Redmi 10c
+Bot → whatsapp:+59163618447: El precio del Xiaomi Redmi 10C es de 1150 Bs.
+[2025-05-22T14:31:41.779323] whatsapp:+59163618447 → Bot: Dónde lo encontro para comprar
+Bot → whatsapp:+59163618447: Disculpa, creo que hubo un error. ¿Podrías darme más contexto para entender a qué te refieres con "lo"?
+[2025-05-22T14:32:32.606518] whatsapp:+59163618447 → Bot: Donde encuentro el Xiaomi para comprarlo
+Bot → whatsapp:+59163618447: ¡Hola! El Xiaomi es una marca que cuenta con una amplia gama de productos como teléfonos inteligentes, dispositivos inteligentes para el hogar, accesorios, entre otros. Puedes encontrar productos Xiaomi para comprar en tiendas en línea como Amazon, Gearbest, Banggood, AliExpress, así como en tiendas físicas de electrónica de consumo. ¿Hay algún modelo en particular que te interese? ¡Estaré encantado de ayudarte!
+[2025-05-22T14:38:38.288386] whatsapp:+59163618447 → Bot: Tienes alguna promoción de alguno producto?
+Bot → whatsapp:+59163618447: ¡Hola! En este momento no tengo promociones activas, pero los precios de los teléfonos Xiaomi y las impresoras HP que te mencioné son bastante competitivos. ¿Te gustaría saber más detalles de alguno de estos productos en particular? ¡Estoy aquí para ayudarte!
