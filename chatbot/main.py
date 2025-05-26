@@ -59,7 +59,7 @@ def load_initial_conversations() -> None:
         if old_lines:
             vector_store.add_texts(old_lines)
 
-load_initial_conversations()
+#load_initial_conversations()
 
 
 class SendMessageRequest(BaseModel):

@@ -4,7 +4,7 @@ from twilio.twiml.messaging_response import MessagingResponse
 from openai import OpenAI
 
 from schemas import SendMessageRequest
-from config import OPENAI_API_KEY
+from chrom_db.config import OPENAI_API_KEY
 from twilio_utils import send_sms
 from vector_store import vector_store
 from logging_utils import log
@@ -34,7 +34,7 @@ def receive_message(From: str = Form(...), Body: str = Form(...)):
     log(f"{From} → Bot: {Body}")
     return {"status": "received", "from": From, "message": Body}
 
-# ──────────── Webhook Twilio ────────────
+
 @router.post("/webhook")
 async def twilio_webhook(From: str = Form(...), Body: str = Form(...)):
     incoming = Body.strip()

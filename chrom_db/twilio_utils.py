@@ -1,5 +1,5 @@
 from twilio.rest import Client as TwilioClient
-from config import ACCOUNT_SID, AUTH_TOKEN, FROM_NUMBER
+from chrom_db.config import ACCOUNT_SID, AUTH_TOKEN, FROM_NUMBER
 
 twilio_client = TwilioClient(ACCOUNT_SID, AUTH_TOKEN)
 

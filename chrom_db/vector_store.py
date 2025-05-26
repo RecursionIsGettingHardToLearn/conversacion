@@ -1,7 +1,7 @@
 import os
 from langchain_chroma import Chroma
 from langchain_openai import OpenAIEmbeddings
-from config import OPENAI_API_KEY, VECTOR_DIR, CONV_FILE
+from chrom_db.config import OPENAI_API_KEY, VECTOR_DIR, CONV_FILE
 
 embeddings = OpenAIEmbeddings(
     model="text-embedding-3-large",

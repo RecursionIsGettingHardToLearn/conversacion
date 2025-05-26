@@ -18,3 +18,15 @@ Bot → whatsapp:+59163618447: Disculpa, creo que hubo un error. ¿Podrías darm
 Bot → whatsapp:+59163618447: ¡Hola! El Xiaomi es una marca que cuenta con una amplia gama de productos como teléfonos inteligentes, dispositivos inteligentes para el hogar, accesorios, entre otros. Puedes encontrar productos Xiaomi para comprar en tiendas en línea como Amazon, Gearbest, Banggood, AliExpress, así como en tiendas físicas de electrónica de consumo. ¿Hay algún modelo en particular que te interese? ¡Estaré encantado de ayudarte!
 [2025-05-22T14:38:38.288386] whatsapp:+59163618447 → Bot: Tienes alguna promoción de alguno producto?
 Bot → whatsapp:+59163618447: ¡Hola! En este momento no tengo promociones activas, pero los precios de los teléfonos Xiaomi y las impresoras HP que te mencioné son bastante competitivos. ¿Te gustaría saber más detalles de alguno de estos productos en particular? ¡Estoy aquí para ayudarte!
+[2025-05-24T16:23:08.163259] whatsapp:+59163618447 → Bot: Hols
+Bot → whatsapp:+59163618447: ¡Hola! ¿En qué puedo ayudarte hoy? ¿Estás interesado en algún producto en particular?
+[2025-05-24T16:23:10.283024] whatsapp:+59163618447 → Bot: Hola
+Bot → whatsapp:+59163618447: ¡Hola! ¿Cómo puedo ayudarte hoy? ¿Estás interesado en algún producto en particular o tienes alguna pregunta sobre tecnología? ¡Estoy aquí para ayudarte!
+[2025-05-24T16:23:30.611324] whatsapp:+59163618447 → Bot: Tienes para. Venta productos?
+Bot → whatsapp:+59163618447: ¡Hola! Sí, actualmente cuento con teléfonos Xiaomi, como el Xiaomi Redmi 10C, y también impresoras, como la HP DeskJet Ink Advantage 2775, disponibles para la venta. ¿Te interesa alguno de estos productos o buscas algo en específico? Estoy aquí para ayudarte. ¡Déjame saber cómo puedo asistirte!
+[2025-05-24T17:28:20.307276] whatsapp:+59163618447 → Bot: Hola
+Bot → whatsapp:+59163618447: ¡Hola! ¿En qué puedo ayudarte hoy? ¿Estás interesado en algún producto en particular o tienes alguna pregunta sobre tecnología? ¡Estoy aquí para ayudarte!
+[2025-05-24T17:29:04.883906] whatsapp:+59163618447 → Bot: Hola
+Bot → whatsapp:+59163618447: ¡Hola! ¿En qué puedo ayudarte hoy? ¿Estás interesado en algún producto en particular o tienes alguna pregunta sobre tecnología? ¡Estoy aquí para ayudarte!
+[2025-05-24T17:30:51.028739] whatsapp:+59163618447 → Bot: Hola
+Bot → whatsapp:+59163618447: ¡Hola! ¿En qué puedo ayudarte hoy? ¿Estás interesado en algún producto en particular o tienes alguna pregunta sobre tecnología? ¡Estoy aquí para ayudarte!

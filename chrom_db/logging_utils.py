@@ -1,5 +1,5 @@
 from datetime import datetime
-from config import CONV_FILE
+from chrom_db.config import CONV_FILE
 
 def log(text: str):
     ts = datetime.now().isoformat()
